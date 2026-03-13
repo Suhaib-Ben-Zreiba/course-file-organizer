@@ -20,7 +20,7 @@ Use:
 python organizer.py
 
 ## Example
-lecture1.pdf -> PDFs/lecture_1.pdf
-lecture-1 final.pdf -> PDFs/lecture_1_copy.pdf
-notes_final_final.pdf -> PDFs/notes.pdf
-Assignment 2 (1).docx -> Documents/assignment_2.docx
+lecture1.pdf → PDFs/lecture_1.pdf  
+lecture-1 final.pdf → PDFs/lecture_1_copy.pdf  
+notes_final_final.pdf → PDFs/notes.pdf  
+Assignment 2 (1).docx → Documents/assignment_2.docx
